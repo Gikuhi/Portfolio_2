@@ -111,13 +111,13 @@ const dataportfolio = [{
     },
 
     {
-        img: "https://picsum.photos/400/600/?grayscale",
+        img: "images/Screenshot4.png",
         description: "The Mythical Place.",
         link: "https://mythical-place.onrender.com/",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "images/Screenshot 5.png",
+        description: "My Portfolio",
         link: "#",
     },
     {
