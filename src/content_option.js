@@ -81,18 +81,18 @@ const services = [{
 
 const dataportfolio = [{
         img: "images/coast-3.png",
-        description: "Mombasa Coast #1.",
+        description: "Mombasa Coast adventure",
         link: "https://www.behance.net/gallery/188498315/June-23-Mombasa",
     },
     {
-        img: "images/coast-6.5.png",
-        description: "Long distance traveler.",
-        link: "https://www.behance.net/gallery/188498315/June-23-Mombasa",
+        img: "images/ivy6.png",
+        description: "Ksh 50 Commissions",
+        link: "https://www.behance.net/gallery/188614309/S050-commissions",
     },
     {
-        img: "images/sila butterflies.png",
-        description: "The butterfly effect.",
-        link: "https://www.behance.net/gallery/188515591/art-gallery",
+        img: "images/mbesa x thefatherr.png",
+        description: "Collab with Mbesa Malaika",
+        link: "https://www.behance.net/gallery/188610493/Mbesa-x-Rick",
     },
     {
         img: "images/JEff 2.png",
