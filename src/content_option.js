@@ -120,25 +120,21 @@ const dataportfolio = [{
         description: "My Portfolio",
         link: "#",
     },
+    
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "images/Screenshot 6.png",
+        description: "M9 by Uzzi & Eugo",
+        link: "https://youtu.be/qra245e9A8M?si=Ric9jvdoVyI0aae5",
     },
     {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "images/Screenshot 7.png",
+        description: "Deep Today by Mchizen",
+        link: "https://youtu.be/ed-ez4Cvg-g?si=VgH0r38rMpCUBE22",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "images/Screenshot 8.png",
+        description: "Belly of the Beast by K.whu",
+        link: "https://www.instagram.com/p/CrBoKJoo6fP/?igsh=MXJjaHY0cHJxZGJ3MA==", 
     },
 ];
 
