@@ -67,11 +67,11 @@ const skills = [{
 
 const services = [{
         title: "UI & UX Design",
-        description: "I am dedicated to crafting captivating and user-friendly interfaces that elevate the digital experience.",
+        description: "From wireframing and prototyping to creating visually stunning interfaces, our team is dedicated to crafting intuitive and engaging designs that captivate audiences. We understand the importance of seamless user interaction and interface aesthetics, and our expertise in user-centric design ensures that your digital presence stands out from the competition. Let us transform your vision into a captivating and effective user experience with our top-notch UI/UX design services.",
     },
     {
-        title: "Photography",
-        description: "In photography, I specialize in capturing memorable moments and compelling visual narratives through my lens.",
+        title: "Video & Photo editing",
+        description: "We provide professional editing, color correction, retouching, and more to ensure your videos and photos are polished and captivating. Whether you're a filmmaker, photographer, or business seeking to enhance your visual presence, our tailored editing services will elevate your creative vision. Let us help you make a lasting impression with our expert video and photo editing capabilities.",
     },
     {
         title: "Cinematography",
