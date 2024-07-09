@@ -154,7 +154,7 @@ const socialprofils = {
     instagram: "https://instagram.com/Gikuhii",
     linkedin: "https://www.linkedin.com/in/richard-murimi-96173a229/",
     twitter: "https://x.com/rickkkgikkks",
-    youtube: "https://youtube.com/@gikuhii?si=bFRSXyJ7kWsSBeVk",
+    youtube: "https://youtube.com/@gikuhii?si=ozMl5r2XGmMHbX7O",
     // pinterest: "https://www.pinterest.com/gikuhiii/",
 };
 export {
