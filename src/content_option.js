@@ -133,7 +133,7 @@ const dataportfolio = [{
     },
     {
         img: "images/Screenshot 8.png",
-        description: "Belly of the Beast by K.whu",
+        description: "Mixed Media ft. K.whu",
         link: "https://www.instagram.com/p/CrBoKJoo6fP/?igsh=MXJjaHY0cHJxZGJ3MA==", 
     },
 ];
